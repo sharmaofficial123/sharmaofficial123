@@ -27,6 +27,9 @@ I specialize in building seamless mobile applications using React Native. My jou
 ![](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![](https://img.shields.io/badge/Xendit-FF6600?style=for-the-badge&logo=xendit&logoColor=white)
+
 
 
 
