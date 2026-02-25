@@ -1,13 +1,20 @@
 # **Welcome to My GitHub Profile!**
-
 Hello there! 👋 Welcome to my GitHub profile. I'm sharmaofficial123, a passionate React-Native based in NewDelhi,India. This space is where I explore, learn, and collaborate on various projects that reflect my interests and expertise.
 
 ## About Me
-
 I specialize in building seamless mobile applications using React Native. My journey began with a fascination for mobile interfaces and a drive to create user-friendly solutions. My background in computer science fuels my dedication to crafting robust, efficient, and delightful apps.
 
-## Specialisation 
+## 📦 Published NPM Packages
 
+| Package | Version | Description |
+|--------|---------|-------------|
+| [@purusharmaofficiall/react-native-badge-module](https://www.npmjs.com/package/@purusharmaofficiall/react-native-badge-module) | ![npm](https://img.shields.io/npm/v/@purusharmaofficiall/react-native-badge-module?style=flat-square&color=cb3837&logo=npm) | A React Native module for managing app badge counts on Android |
+
+```bash
+npm i @purusharmaofficiall/react-native-badge-module
+```
+
+## Specialisation 
 ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
@@ -29,10 +36,5 @@ I specialize in building seamless mobile applications using React Native. My jou
 ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![](https://img.shields.io/badge/Xendit-FF6600?style=for-the-badge&logo=xendit&logoColor=white)
-
-
-
-
-
 
 Thanks for stopping by, and happy coding! 🚀
